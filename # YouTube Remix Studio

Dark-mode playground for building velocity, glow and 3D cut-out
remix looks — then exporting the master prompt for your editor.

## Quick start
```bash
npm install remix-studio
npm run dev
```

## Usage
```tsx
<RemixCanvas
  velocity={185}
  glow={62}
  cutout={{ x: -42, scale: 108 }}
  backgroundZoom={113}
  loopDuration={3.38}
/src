@@ -1,0 +1,7 @@
+components/
+RemixCanvas.tsx
+— effect renderer
+ControlPanel.tsx
+— sliders + curve
+PromptPanel.tsx
+— prompt builder
